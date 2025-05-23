@@ -11,5 +11,5 @@ C'est un programme en Micro-python conçu pour fonctionner sur une calculatrice 
 6. Une fois le programme transféré, vous pouvez débrancher la calculatrice. Puis vous vérez le programme dans la catégorie "Python" de votre calculatrice.
 7. Et voilà, le programme est installé et prêt à être utilisé !
 
-## Aertissement
+## Avertissement
 Le programme contient l'integralité de des modules externe utilisés. Il est donc **lourd** et prend une place importante sur la mémoire de la calculatrice. Le programme est également **lent** et énnergivore. Il est recommendé de ne pas le laisser tourner trop longtemps.

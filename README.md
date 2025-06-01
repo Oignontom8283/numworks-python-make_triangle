@@ -1,4 +1,4 @@
-# Make triangle
+# Make a triangle
 
 ## Description
 C'est un programme en Micro-python conçu pour fonctionner sur une calculatrice [Numworks](https://www.numworks.com/) ou émulateur. Il permet de visualiser un triangle grace au longueur de ses côtés dans repére interactif. Le programme utilise Numworks Python 2D Engin pour afficher triangle et la gestion de du repére.

@@ -1,0 +1,8 @@
+# requirements.txt
+
+ion-numworks==2.1
+kandinsky==2.7.2
+pynput==1.8.1
+PySDL2==0.9.17
+pysdl2-dll==2.32.0
+six==1.17.0

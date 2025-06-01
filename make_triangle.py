@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-# version : 1.0.3
+# version : v1.0.3
 # development started in 09/2024.
-# repot : https://github.com/Oignontom8283/numworks-python-make_triangle
-# author(s) : https://github.com/Oignontom8283/
+# numworks shop repot : https://my.numworks.com/python/546f6d/make_triangle/
+# github repot : https://github.com/Oignontom8283/make-a-triangle_numworks-python/
 
 from math import *
 from time import *

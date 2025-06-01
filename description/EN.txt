@@ -1,0 +1,9 @@
+Make a Triangle is a program that allows you to draw a triangle in the style of mathematical software like GeoGebra.
+
+Press the "EXE" key to access the triangle information menu.
+
+The community repository can be found here: https://github.com/Oignontom8283/make-a-triangle_numworks-python.
+
+If you’d like to contribute, feel free to check it out, or if you want to test a beta version (if one is available) 😃.
+
+The project started in September 2024.

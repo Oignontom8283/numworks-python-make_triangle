@@ -9,7 +9,7 @@ C'est un programme en Micro-python conçu pour fonctionner sur une calculatrice 
 ## Installation
 1. Brancher votre calculatrice Numworks à votre ordinateur avec un cable qui suppote le transfert de données.
 2. Ouvrer le navigateur Google Chrome (Important).
-4. ALlez sur https://my.numworks.com/python/546f6d/make_triangle, et cliquer sur le bouton "Envoyer sur ma calculatrice". Vous devrez peut-être vous connecter à votre compte Numworks ou en créer un si vous n'en avez pas encore.
+4. Allez sur https://my.numworks.com/python/546f6d/make_a_triangle/, et cliquer sur le bouton "Envoyer sur ma calculatrice". Vous devrez peut-être vous connecter à votre compte Numworks ou en créer un si vous n'en avez pas encore.
 5. Si vous n'avez pas déja connecté votre calculatrice au navigateur, le site vous demandera de le faire.
 6. Une fois le programme transféré, vous pouvez débrancher la calculatrice. Puis vous vérez le programme dans la catégorie "Python" de votre calculatrice.
 7. Et voilà, le programme est installé et prêt à être utilisé !
@@ -34,7 +34,7 @@ Numworks Python 2D Engin est pour l'instant un projet expérimental qui permet d
 
 ## Developpement
 
-Pour le développement, je recommande d'utiliser l'extension [Numworks Simulator](https://marketplace.visualstudio.com/items?itemName=k-kuroguro.numworks-simulator) sinon vous pouvez utiliser le logiciel [Python](https://www.python.org/) en version 3.12 ou supérieur. Dans ce cas la, suivez les instruction ci-dessous en fonction de votre système d'exploitation :
+Pour le développement, je recommande d'utiliser l'extension VSCode [Numworks Simulator](https://marketplace.visualstudio.com/items?itemName=k-kuroguro.numworks-simulator) d'émulation, sinon vous pouvez utiliser le logiciel [Python](https://www.python.org/) en version 3.12 ou supérieur. Dans ce cas la, suivez les instruction ci-dessous en fonction de votre système d'exploitation :
 
 ### Windows
 1. Clonez le dépôt (ou pluteôt votre fork) sur votre ordinateur `git clone URL_DU_DEPOT`.

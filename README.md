@@ -3,6 +3,9 @@
 ## Description
 C'est un programme en Micro-python conçu pour fonctionner sur une calculatrice [Numworks](https://www.numworks.com/) ou émulateur. Il permet de visualiser un triangle grace au longueur de ses côtés dans repére interactif. Le programme utilise Numworks Python 2D Engin pour afficher triangle et la gestion de du repére.
 
+### Ilustration
+![Make a triangle](./docs/images/illustration1.png)
+
 ## Installation
 1. Brancher votre calculatrice Numworks à votre ordinateur avec un cable qui suppote le transfert de données.
 2. Ouvrer le navigateur Google Chrome (Important).
@@ -28,3 +31,23 @@ Le programme contient l'integralité de des modules externe utilisés. Il est do
 
 ## Numworks Python 2D Engin
 Numworks Python 2D Engin est pour l'instant un projet expérimental qui permet de créer des programmes graphiques en 2D. Il s'agit de la partie la plus importante et complexe du programme. Je l'ai développé à la base pour Make a triangle, mais il est prévu de lui donner son propre dépôt à l'avenir. Alors n'hésitez pas à l'améliorer si l'envie vous en prend ! Ou à l'utiliser.
+
+## Developpement
+
+Pour le développement, je recommande d'utiliser l'extension [Numworks Simulator](https://marketplace.visualstudio.com/items?itemName=k-kuroguro.numworks-simulator) sinon vous pouvez utiliser le logiciel [Python](https://www.python.org/) en version 3.12 ou supérieur. Dans ce cas la, suivez les instruction ci-dessous en fonction de votre système d'exploitation :
+
+### Windows
+1. Clonez le dépôt (ou pluteôt votre fork) sur votre ordinateur `git clone URL_DU_DEPOT`.
+2. Ouvrez une invite de commande et naviguez jusqu'au dossier du dépôt cloné.
+3. Créer un environnement virtuel python avec la commande `python -m venv .env`.
+4. Activez l'environnement virtuel avec la commande `.\.env\Scripts\activate`.
+5. Installez les dépendances nécessaires avec la commande `pip install -r requirements.txt`.
+6. Vous pouvez maintenant exécuter le programme avec la commande `python make_a_triangle.py`.
+
+### Linux / MacOS
+1. Clonez le dépôt (ou pluteôt votre fork) sur votre ordinateur `git clone URL_DU_DEPOT`.
+2. Ouvrez un terminal et naviguez jusqu'au dossier du dépôt cloné.
+3. Créer un environnement virtuel python avec la commande `python3 -m venv .env`.
+4. Activez l'environnement virtuel avec la commande `source .env/bin/activate`.
+5. Installez les dépendances nécessaires avec la commande `pip install -r requirements.txt`.
+6. Vous pouvez maintenant exécuter le programme avec la commande `python make_a_triangle.py`.
